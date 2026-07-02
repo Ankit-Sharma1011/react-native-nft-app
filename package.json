@@ -21,7 +21,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "build": "expo build:web"
+    "build": "npx expo-cli build:web --non-interactive"
   },
   "dependencies": {
     "@react-navigation/native": "^6.0.8",
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@expo/cli": "latest"
+   "expo-cli": "^5.4.12"
   },
   "private": true
 }
