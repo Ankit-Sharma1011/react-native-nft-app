@@ -1,0 +1,8 @@
+// Add new constants subfiles here
+// Make sure not to delete anything from here (if not sure)
+
+import assets from "./assets";
+import { COLORS, SHADOWS, SIZES, FONTS } from "./theme";
+import { NFTData } from "./dummy";
+
+export { assets, COLORS, SHADOWS, SIZES, FONTS, NFTData };
