@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/71302066/178145214-744889e8-8515-4851-bce6-be1fd968037e.jpg" alt="A React Native NFT Marketplace App" height="700" />
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ankit-Sharma1011 "Ask Me Anything!")
 [![GitHub license](https://img.shields.io/github/license/Ankit-Sharma1011/react-native-nft-app)](https://github.com/Ankit-Sharma1011/react-native-nft-app/blob/main/LICENSE.md "GitHub license")
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/react-native-nft-app/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/react-native-nft-app)](https://github.com/Ankit-Sharma1011/react-native-nft-app/branches "GitHub branches")
